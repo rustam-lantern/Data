@@ -1,0 +1,50 @@
+Source is Detected!
+Confidence_doca:15.28
+Confidence_tot: 8.81909669996
+Bkg_doca: 13.0315098452 Cnts_doca: 68.1734573153
+Bkg_tot: 39.0945295356 Cnts_tot: 94.2364770057
+Peak is found! Number of peaks: 2
+
+
+Peak:  5.50   3.006194
+Peak:  6.52   6.013000
+Peak:  7.50   9.021746
+Peak:  8.50   4.010522
+Peak:  9.50   4.010841
+Peak: 19.58   3.007240
+Peak: 20.50   5.012244
+Peak: 21.61  18.046896
+Peak: 22.50  11.030481
+Peak: 23.50   5.014295
+
+
+CRates:  0.52,  0.000000
+CRates:  1.50,  1.001528
+CRates:  2.50,  1.001723
+CRates:  3.50,  3.005256
+CRates:  4.50,  1.001974
+CRates:  5.50,  3.006194
+CRates:  6.52,  6.013000
+CRates:  7.50,  9.021746
+CRates:  8.50,  4.010522
+CRates:  9.50,  4.010841
+CRates: 10.50,  3.007978
+CRates: 11.50,  0.000000
+CRates: 12.34,  1.002558
+CRates: 13.51,  0.000000
+CRates: 14.40,  2.004990
+CRates: 15.53,  1.002453
+CRates: 16.45,  3.007329
+CRates: 17.54,  0.000000
+CRates: 18.45,  3.007344
+CRates: 19.58,  3.007240
+CRates: 20.50,  5.012244
+CRates: 21.61, 18.046896
+CRates: 22.50, 11.030481
+CRates: 23.50,  5.014295
+CRates: 24.50,  4.011550
+CRates: 25.49,  0.000000
+CRates: 26.50,  1.002817
+CRates: 27.50,  1.002793
+CRates: 28.52,  0.000000
+CRates: 29.52,  1.002725

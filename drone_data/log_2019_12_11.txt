@@ -1,0 +1,13 @@
+run1 - regular scan, source close, center
+run2 - regular scan, source close, center
+run3 - top scan, source close, center
+run4 - top scan, source close, center
+run5- - going forward and back, source is in the middle
+run6 - all the way around 
+run7 - regulatr scan on the side
+run8 - regular on the side.
+run9 - regular scan, source moved to the end of the container, not detected
+run10 -regular  scan, source moved to the end of the container, detected
+run11 - 50s scan- 20s forward, 20s back, 10s close, source is at the end, detected
+run12 - source is in the center - dron is on the other side (1 container separation) 30s data
+run13 source is in the center - dron is on the side 30s data

@@ -1,0 +1,17 @@
+TestCONF:  2.73445 0.4783 1.47857e-05
+Collection Time:50 s
+Detector Initialize
+List DetectorID: 2312687652
+Detector Found - 2312687652 SIGMA 50 Kromek SN:8106
+SetLLDThresholds:80
+Output FileNames: /home/raspion_user/data/Beacon_12_11_2019_run6.sp /home/raspion_user/data/Beacon_12_11_2019_run6.spe /home/raspion_user/data/Beacon_12_11_2019_run6.txt
+Start Acquisition Time 1576080345639 2019_12_11_10_05_45_639
+Acquiring Data for     50.0 s
+Acqured Data
+
+Total Counts: 1921 RealTime: 50004 LiveTime: 49892
+finished computation at Wed Dec 11 10:06:35 2019
+elapsed time: 50.0134s
+Source is Detected!
+Confidence_doca: 8.51 
+Peak is found! Number of peaks: 1

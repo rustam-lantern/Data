@@ -1,0 +1,14 @@
+TestCONF:  2.73445 0.4783 1.47857e-05
+Collection Time:10 s
+Detector Initialize
+List DetectorID: 2312687652
+Detector Found - 2312687652 SIGMA 50 Kromek SN:8106
+SetLLDThresholds:80
+Output FileNames: /home/raspion_user/data/Beacon_run4.sp /home/raspion_user/data/Beacon_run4.spe /home/raspion_user/data/Beacon_run4.txt
+Start Acquisition Time 1571871077412 2019_10_23_17_51_17_412
+Acquiring Data for     10.0 s
+Acqured Data
+
+Total Counts: 327 RealTime: 10002 LiveTime: 9982
+finished computation at Wed Oct 23 17:51:27 2019
+elapsed time: 10.0263s
