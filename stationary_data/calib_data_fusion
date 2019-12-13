@@ -1,0 +1,2 @@
+#!/bin/sh
+root -b -q "./calib_data_fusion.C(\"${1}\",${2})"

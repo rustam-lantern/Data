@@ -1,0 +1,2 @@
+#!/bin/sh
+root -b -q "./calib_kromek_data.C("${1}")"

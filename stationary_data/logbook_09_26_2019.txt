@@ -1,0 +1,20 @@
+Room temperature = 71F = 22 deg Celsius
+1) Beacon_background.txt - background data before taking calibration 10min
+2) Calibration1 with 57Co,137Cs,60Co 10 min
+3) Calibration2 with 57Co,137Cs,60Co 10 min
+4) Calibration3 with 57Co,137Cs,60Co 10 min
+5) 10 uCi 57Co run at 40cm - 1 min
+6) 10uCi 57Co run at 50 cm 1min
+7) Calibration3 with 57Co,137Cs,60Co 5 min //did not work
+
+8) 10uCi 137Cs run at 50cm 30 min                       2.734449 0.475894  0.0000147857 based on Beacon_Calibration4.sp run
+9) 10uCi Na22 run at 50cm 30 min                        2.734449 0.475894  0.0000147857
+10) 10uCi 57Co run at 50cm 30 min                       2.734449 0.475894  0.0000147857
+11) Backround run 30 min                                2.734449 0.475894  0.0000147857
+12) Calibration4 run at test lab upstairs (hot) 10 min  2.734449 0.485516  0.0000147857
+13) Background run test lab 10 min lt                   2.734449 0.485516  0.0000147857
+14) 50uCi 137Cs run at 2m distance 1 hour               2.734449 0.480091  0.0000147857
+15) Background run at 2m distance 1 hour                2.734449 0.480091  0.0000147857
+16) Drone run1 2feet from the wall 50uCi 137Cs          2.734449 0.477864  0.0000147857
+16) Drone run2 2feet from the wall 50uCi 137Cs          2.734449 0.478300  0.0000147857
+
